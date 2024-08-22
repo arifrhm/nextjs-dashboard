@@ -1,0 +1,17 @@
+/* src/app/dashboard/dashboard.module.css */
+.container {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+  }
+  
+  .title {
+    margin-bottom: 20px;
+    font-size: 2rem;
+  }
+  
+  .chartContainer {
+    height: 400px;
+    width: 100%;
+  }
+  
